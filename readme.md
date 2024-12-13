@@ -1,7 +1,7 @@
 this is public repo for media
 
 
-[![Watch the video](https://raw.githubusercontent.com/adelumban/publicdump/main/assets/hbd.mp4)
+[![Watch the video](https://raw.githubusercontent.com/adelumban/publicdump/main/hbd.mp4)
 
 
 
